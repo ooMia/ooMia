@@ -1,0 +1,17 @@
+name: Update Productive Box
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  pull_request:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run Productive Box
+      uses: maxam2017/productive-box@latest
+      env:
+        GIST_ID: ${{ secrets.GIST_ID }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        TIMEZONE: ${{ vars.TIMEZONE }}
