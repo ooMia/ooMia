@@ -10,7 +10,7 @@ jobs:
 
     steps:
     - name: Run Productive Box
-      uses: maxam2017/productive-box@v1.2
+      uses: maxam2017/productive-box@v1.2.0
       env:
         GIST_ID: ${{ secrets.GIST_ID }}
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
