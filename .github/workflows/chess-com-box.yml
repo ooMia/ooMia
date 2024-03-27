@@ -1,8 +1,7 @@
 name: Update gist with Chess.com Ratings
 
 on:
-  push:
-    branches: main
+  pull_request:
   schedule:
     - cron: "0 * * * *"
     
