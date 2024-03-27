@@ -14,7 +14,6 @@ jobs:
         run: |
           response=$(curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/gists/${{ secrets.GIST_ID }})
           echo "$response" > gist.json
-          cat gist.json
 
       - name: Save Gist files
         run: |
@@ -32,7 +31,7 @@ jobs:
         run: pip install -r requirements.txt
         
       - name: Update gist
-        run: python chess_com_box.py
+        run: python chess-com-box.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
