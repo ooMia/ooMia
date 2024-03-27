@@ -1,0 +1,39 @@
+name: Update gist with Chess.com Ratings
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: "0 * * * *"
+    
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    environment: chess-com-box
+    steps:
+      - name: Fetch Gist
+        run: |
+          response=$(curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/gists/${{ secrets.GIST_ID }})
+          echo "$response" > gist.json
+
+      - name: Save Gist files
+        run: |
+          for filename in $(jq -r '.files | keys | .[]' gist.json); do
+            content=$(jq -r --arg filename "$filename" '.files[$filename].content' gist.json)
+            echo "$content" > "$filename"
+          done
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Update gist
+        run: python chess_com_box.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          CHESS_COM_USERNAME: ${{ secrets.CHESS_COM_USERNAME }}
