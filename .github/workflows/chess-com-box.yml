@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Fetch Gist
         run: |
-          response=$(curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/gists/${{ secrets.GIST_ID }})
+          response=$(curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/gists/${{ secrets.SOURCE_GIST_ID }})
           echo "$response" > gist.json
 
       - name: Save Gist files
