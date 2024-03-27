@@ -7,6 +7,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment: productive-box
 
     steps:
     - name: Run Productive Box
