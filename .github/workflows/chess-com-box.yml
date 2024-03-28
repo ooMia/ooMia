@@ -21,12 +21,12 @@ jobs:
             echo "$content" > "$filename"
           done
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.7
 
       - name: Cache pip dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
             path: ~/.cache/pip
             key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -40,4 +40,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          CHESS_COM_USERNAME: ${{ vars.CHESS_COM_USERNAME }}
+          CHESS_COM_USERNAME: 07ily
