@@ -4,7 +4,7 @@ on:
   pull_request:
   schedule:
     - cron: "0 * * * *"
-    
+
 jobs:
   update-gist:
     runs-on: ubuntu-latest
@@ -14,22 +14,27 @@ jobs:
         run: |
           response=$(curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/gists/${{ secrets.SOURCE_GIST_ID }})
           echo "$response" > gist.json
-
       - name: Save Gist files
         run: |
           for filename in $(jq -r '.files | keys | .[]' gist.json); do
             content=$(jq -r --arg filename "$filename" '.files[$filename].content' gist.json)
             echo "$content" > "$filename"
           done
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.7
-          
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v2
+        with:
+            path: ~/.cache/pip
+            key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+            restore-keys: ${{ runner.os }}-pip-
+            
       - name: Install dependencies
         run: pip install -r requirements.txt
-        
+
       - name: Update gist
         run: python chess-com-box.py
         env:
