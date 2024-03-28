@@ -35,4 +35,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          CHESS_COM_USERNAME: ${{ env.CHESS_COM_USERNAME }}
+          CHESS_COM_USERNAME: ${{ vars.CHESS_COM_USERNAME }}
