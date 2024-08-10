@@ -7,29 +7,24 @@
 <!--  ![GitHub watchers](https://img.shields.io/github/watchers/ooMia/ooMia) -->
 <!--  ![GitHub User's stars](https://img.shields.io/github/stars/ooMia) -->
   
-  
   # Skills
  
-  
-  
   ### 🖥 Main Skills
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-%230db7ed.svg?style=for-the-badge&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
   [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooMia&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
   ### 🧑‍🎓 Sub Skills
   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![JPA](https://img.shields.io/badge/JPA-%230db7ed.svg?style=for-the-badge&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1891179)](https://solved.ac/hs1891179/)
   
@@ -37,7 +32,7 @@
   ### 🤙 Contacts
   [![LinkedIn logo][]][LinkedIn url]
   <a href="mailto:hyeonhak.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://velog.io/@ooMia"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
+  <a href="https://velog.io/@oomia"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
   <a href="https://www.notion.so/softsquared/b281d789ee5346e7905c1d21891cf7bc?v=1093a98867a84f80b722fe677880d614"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
   
   ### 👨‍💻 Repo Stats
