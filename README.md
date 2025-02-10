@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fbf0b2,100:d8b4f8&height=200&section=header&text=HYEON-HAK%20KIM&desc=Backend%20Developer&descAlign=65&descAlignY=80&fontColor:ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fbf0b2,100:d8b4f8&height=200&section=header&text=HYEON-HAK%20KIM&desc=FullStack%20Developer&descAlign=65&descAlignY=80&fontColor:ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FooMia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -13,18 +13,19 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
   [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooMia&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
   ### 🧑‍🎓 Sub Skills
+  ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-%230db7ed.svg?style=for-the-badge&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1891179)](https://solved.ac/hs1891179/)
   
   # It's Me!
