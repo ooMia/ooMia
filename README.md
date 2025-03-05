@@ -36,10 +36,10 @@
   <a href="https://www.notion.so/softsquared/b281d789ee5346e7905c1d21891cf7bc?v=1093a98867a84f80b722fe677880d614"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
   
   ### 👨‍💻 Repo Stats
-  [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ooMia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ooMia&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-  [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ooMia&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ooMia)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![](https://github-profile-trophy.vercel.app/?username=ooMia&row=1)
+  ![](https://github-readme-stats.vercel.app/api?username=ooMia&theme=blue-green)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ooMia&theme=blue-green)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=ooMia)
 </div>
   
   [Gmail logo]: http://img.shields.io/badge/Gmail-%236DB33F.svg?style=for-the-badge&logo=gmail&logoColor=white
