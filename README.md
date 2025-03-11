@@ -16,7 +16,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark)
+  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=8)
   
   ### 🧑‍🎓 Sub Skills
   ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
