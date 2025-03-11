@@ -16,7 +16,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooMia&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark)
   
   ### 🧑‍🎓 Sub Skills
   ![MySQL](https://img.shields.io/badge/mysql-%236DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,8 +37,7 @@
   
   ### 👨‍💻 Repo Stats
   ![](https://github-profile-trophy.vercel.app/?username=ooMia&row=1)
-  ![](https://github-readme-stats.vercel.app/api?username=ooMia&theme=blue-green)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ooMia&theme=blue-green)
+  ![](https://github-readme-stats.vercel.app/api?username=oomia&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   ![](https://github-readme-activity-graph.vercel.app/graph?username=ooMia)
 </div>
   
