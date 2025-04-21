@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fbf0b2,100:d8b4f8&height=200&section=header&text=HYEON-HAK%20KIM&desc=FullStack%20Developer&descAlign=65&descAlignY=80&fontColor:ffffff)
 
-  [![HitCount](https://hits.dwyl.com/ooMia/ooMia.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ooMia/ooMia)
+  ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fyn7xewewinhxoebnx3eijsi7tm0hiuvy.lambda-url.ap-northeast-2.on.aws%2F)
   
 <!--  ![GitHub watchers](https://img.shields.io/github/watchers/ooMia/ooMia) -->
 <!--  ![GitHub User's stars](https://img.shields.io/github/stars/ooMia) -->
