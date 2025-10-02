@@ -38,7 +38,11 @@
   <h3>📊 Activity</h3>
   <table>
     <tr align="center">
-      <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs1891179" alt="Solved.ac Profile"/></td>
+      <td>
+        <a href="https://solved.ac/hs1891179">
+          <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hs1891179" alt="Solved.ac Profile"/>
+        </a>
+      </td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=5" alt="Top Languages"/></td>
     </tr>
     <tr>
