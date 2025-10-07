@@ -36,7 +36,7 @@
 <!-- Activity -->
 <section>
   <h3>📊 Activity</h3>
-  <table>
+  <table border="0">
     <tr align="center">
       <td>
         <a href="https://solved.ac/hs1891179">
