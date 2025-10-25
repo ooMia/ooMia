@@ -43,11 +43,11 @@
           <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hs1891179" alt="Solved.ac Profile"/>
         </a>
       </td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=4" alt="Top Languages"/></td>
+      <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=7" alt="Top Languages"/></td>
     </tr>
     <tr>
       <!-- <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ooMia&row=1" alt="github-profile-trophy"/></td> -->
-      <td colspan="2"><img src="https://streak-stats.demolab.com?user=oomia&theme=dark" alt="GitHub Streak" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=oomia&theme=dark&card_width=700" alt="GitHub Streak" /></td>
     </tr>
   </table>
 </section>
