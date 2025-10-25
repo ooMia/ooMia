@@ -45,9 +45,10 @@
       </td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomia&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=4" alt="Top Languages"/></td>
     </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ooMia&row=1" alt="github-profile-trophy"/></td>
-    </tr>
+    <!-- <tr> -->
+      <!-- <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ooMia&row=1" alt="github-profile-trophy"/></td> -->
+      <!-- <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ooMia&theme=onedark&row=1" alt="github-profile-trophy"/></td> -->
+    <!-- </tr> -->
   </table>
 </section>
 
