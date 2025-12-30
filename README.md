@@ -2,7 +2,7 @@
 
 <!-- 방문자 수 -->
 <p>
-  <img src="https://yn7xewewinhxoebnx3eijsi7tm0hiuvy.lambda-url.ap-northeast-2.on.aws" alt="hits"/>
+  <img src="https://proud-unit-4729.07ily.workers.dev/" alt="hits"/>
 </p>
 
 <!-- Skills -->
