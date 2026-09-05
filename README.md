@@ -2,7 +2,7 @@
 
 <!-- 방문자 수 -->
 <p>
-  <img src="https://proud-unit-4729.07ily.workers.dev/" alt="hits"/>
+  <img src="https://hits.oomia.click/" alt="hits"/>
 </p>
 
 <!-- Skills -->
